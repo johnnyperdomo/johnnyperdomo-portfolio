@@ -1,3 +1,3 @@
 # johnnyperdomo-portfolio
 
-Designed with webflow, deployed with vercel
+Designed with webflow, deployed with firebase
